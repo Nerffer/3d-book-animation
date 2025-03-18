@@ -26,8 +26,8 @@ You can modify the following to fit your needs:
 - **Colors and Styles:** Update the CSS to change the colors, fonts, and appearance of the book.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
   - Transformations
   - Keyframes
   - Transitions
