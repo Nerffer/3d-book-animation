@@ -28,6 +28,3 @@ You can modify the following to fit your needs:
 ## Technologies Used
 - HTML
 - CSS
-  - Transformations
-  - Keyframes
-  - Transitions
